@@ -1,0 +1,4 @@
+1. npm create vite@latest -> client -> npm i -> npm run dev
+2. npm install tailwindcss @tailwindcss/vite
+3. npm i react-router-dom
+4. su dung prebuiltui
